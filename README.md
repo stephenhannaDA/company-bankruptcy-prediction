@@ -1,11 +1,4 @@
 # technical-discussion
-This is a demo repo for sharing ideas around communication
+This is a demo repo for sharing the project.
 
-
-## This is a second heading
-
-* one
-
-### Gist
-
-This is a good example of [my code](https://gist.github.com/stephenhannaDA/9fcba5ab827155bfcf9bc20fa8906ec7)
+[Final Report ML.pdf](https://github.com/stephenhannaDA/company-bankruptcy-prediction/files/6447069/Final.Report.ML.pdf)
